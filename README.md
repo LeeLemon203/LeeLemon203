@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Computer Science and Technology.
 - 💞️ I’m looking to collaborate on computing on GitHub.
 - 📫 How to reach me: helenlee1811@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: a lot...
 
 <!---
 LeeLemon203/LeeLemon203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
